@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBM2GIF", "WEBM2GIF.csproj", "{A45C5F24-5EE6-4716-B964-E2C1746BA41C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45C5F24-5EE6-4716-B964-E2C1746BA41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45C5F24-5EE6-4716-B964-E2C1746BA41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45C5F24-5EE6-4716-B964-E2C1746BA41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45C5F24-5EE6-4716-B964-E2C1746BA41C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFCD6539-C661-42E8-8A3E-7A7986B975A3}
+	EndGlobalSection
+EndGlobal
